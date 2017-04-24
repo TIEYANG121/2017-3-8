@@ -1,0 +1,13 @@
+h1{
+	color:red;
+}
+
+.box{
+	width:100px;
+	height:100px;
+	border:10px solid red;
+}
+
+.box h2{
+	color:blue;
+}
